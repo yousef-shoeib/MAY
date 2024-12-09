@@ -98,7 +98,7 @@ Per garantire che il progetto soddisfi le aspettative, implementeremo una serie 
 + **Main**: contiene il punto d’ingresso principale del programma, avviando e coordinando l'esecuzione del software;
 + **Utils**: include funzioni di utilità generali e strumenti per il caricamento di file, come modelli 3D e texture.
 + **Test**: contiene i vari classi con i test case previsti per verificare il corretto funzionamento del codice
-11. Risorse
+# 11. Risorse
 La grafica 3D è un'attività molto intensa dal punto di vista computazionale quindi è previsto l’uso di un pc con scheda grafica dedicata.
 Per imparare a usare OpenGL, sono stati utilizzati anche i tutorial disponibili al link:  https://learnopengl.com/Introduction. 
 Altre risorse necessarie per lo sviluppo di questo software includono:
