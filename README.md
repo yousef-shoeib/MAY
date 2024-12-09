@@ -1,6 +1,6 @@
 # Project plan v1.0
 
-# 0. indice
+# Indice
 
 [introduzione](#1-introduzione)
 
